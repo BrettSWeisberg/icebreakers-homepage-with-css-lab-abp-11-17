@@ -58,3 +58,22 @@ h3#header{
 main{
   margin-top: 20px;
 }
+
+DIV.JUMBOTRON{
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  align-content: center;
+}
+
+.JUMBOTRON H1{
+  font-size: 60px;
+}
+
+.JUMBOTRON P{
+  font-size: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
